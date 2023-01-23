@@ -20,7 +20,7 @@ def send(msg):
     client.send(message)
 
 send("hello world")
-input() #space causes the next action
+input() 
 send("hello everyone")
 input()
 send("hello Tim")
