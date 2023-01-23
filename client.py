@@ -23,7 +23,7 @@ send("hello world")
 input() 
 send("hello everyone")
 input()
-send("hello Tim")
+send("hello User")
 
 
 send(DISCONNECT_MESSAGE)
